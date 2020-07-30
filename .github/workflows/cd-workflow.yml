@@ -1,6 +1,6 @@
 # This file wont do us much good in this location, make sure you change the path as directed to continue!
 
-name: Docker CD
+yaml name: Docker CD
 
 on:
   push:
